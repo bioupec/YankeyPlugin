@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-yankeyplugin",
+  "version": "0.0.1",
+  "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
+  "cordova": {
+    "id": "cordova-plugin-yankeyplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bioupec/YankeyPlugin.git"
+  },
+  "keywords": [
+    "Toast",
+    "Notification",
+    "Message",
+    "Alert",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Yank Bio <ybenamara.biometrics@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bioupec/YankeyPlugin/issues"
+  },
+  "homepage": "https://github.com/bioupec/YankeyPlugin"
+}
+
